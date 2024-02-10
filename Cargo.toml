@@ -1,5 +1,5 @@
 [workspace]
-resolver = "2"
+resolver = "1"
 
 exclude = [
   "external-crates/move/crates/bytecode-interpreter-crypto",
